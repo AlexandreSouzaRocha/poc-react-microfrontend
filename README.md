@@ -53,7 +53,7 @@ In the ```application``` tag we have referenced the nomenclature of the ```name`
 
 ## <b>Microfrontends</b>
 <hr>
-<h3>This project has 5 micro frontends to demonstrate how its works and his  functionality. Below we have a simple table explaining what is each micro frontend and his speciality</h3>
+This project has 5 micro frontends to demonstrate how its works and his  functionality. Below we have a simple table explaining what is each micro frontend and his speciality
 
 - react-single-spa-root:
   - Main application responsible for routing and linking each microfrontend
